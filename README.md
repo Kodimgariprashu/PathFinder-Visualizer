@@ -1,3 +1,2 @@
 # PathFinder-Visualizer
 
-#About
