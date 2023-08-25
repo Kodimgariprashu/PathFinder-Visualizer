@@ -25,6 +25,9 @@ Here are some pictures of the project while working
 
 ![DFS Path Forming](https://github.com/Kodimgariprashu/PathFinder-Visualizer/assets/103557556/58a53863-627a-456e-856c-688afc4729ef)
 
+### DFS After Formed
+
+![DFS After Path formed](https://github.com/Kodimgariprashu/PathFinder-Visualizer/assets/103557556/e35fae91-52f0-4d9c-95de-fda669408307)
 
 
 
