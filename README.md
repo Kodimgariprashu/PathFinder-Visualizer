@@ -20,6 +20,11 @@ Here are some pictures of the project while working
 
 ![DFS During Traversal](https://github.com/Kodimgariprashu/PathFinder-Visualizer/assets/103557556/8c395915-41b4-4f1f-8ea6-d8e77b185547)
 
+### DFS Path Forming
+
+
+![DFS Path Forming](https://github.com/Kodimgariprashu/PathFinder-Visualizer/assets/103557556/58a53863-627a-456e-856c-688afc4729ef)
+
 
 
 
