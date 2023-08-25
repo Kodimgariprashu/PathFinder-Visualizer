@@ -35,6 +35,8 @@ Here are some pictures of the project while working
 
 ### BFS After Path Formed
 
+![BFS After Path Formed](https://github.com/Kodimgariprashu/PathFinder-Visualizer/assets/103557556/4b0ac56a-4e95-41a9-b5a0-5a90bdc32661)
+
 
 
 
