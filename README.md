@@ -12,7 +12,7 @@ This project helps us to visualize us to see all the paths taken by the algorith
 Here are some pictures of the project while working
 
 ## Default Grid
-("C:\Users\Prasanth\Downloads\PathFinder-Visualizer-main\PathFinder-Visualizer-main\Imgaes\Default grid.png")
+
 
 ## Available Scripts
 
