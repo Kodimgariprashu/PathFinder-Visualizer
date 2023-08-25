@@ -11,6 +11,9 @@ This project helps us to visualize us to see all the paths taken by the algorith
 
 Here are some pictures of the project while working
 
+### Default grid
+
+
 ![Default grid](https://github.com/Kodimgariprashu/PathFinder-Visualizer/assets/103557556/7ed075d7-a80b-40d2-aced-fd65c2a31859)
 
 
